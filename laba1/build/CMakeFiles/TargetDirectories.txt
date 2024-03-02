@@ -1,0 +1,5 @@
+/mnt/d/vuz/OOP/laba1/build/CMakeFiles/laba1.dir
+/mnt/d/vuz/OOP/laba1/build/CMakeFiles/tests.dir
+/mnt/d/vuz/OOP/laba1/build/CMakeFiles/test.dir
+/mnt/d/vuz/OOP/laba1/build/CMakeFiles/edit_cache.dir
+/mnt/d/vuz/OOP/laba1/build/CMakeFiles/rebuild_cache.dir
